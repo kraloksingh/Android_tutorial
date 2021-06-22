@@ -1,0 +1,2 @@
+rootProject.name = "numai app ea"
+include ':app'

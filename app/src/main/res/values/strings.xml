@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UPAJ</string>
+    <string name="Home">Home</string>
+    <string name="new_activity">Next</string>
+    <string name="previous_activity">Prev</string>
+    <string name="crop_plan">Crop Plan</string>
+    <string name="clout_e_shop">CLOUT e-shop</string>
+    <string name="crop_soil_health">Crop/Soil Health</string>
+    <string name="explor_xpace">Explor Xpace</string>
+</resources>
